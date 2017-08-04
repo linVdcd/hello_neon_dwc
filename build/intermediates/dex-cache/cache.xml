@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/incremental-classes/arm7/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d710834c2c7159e56561174c51951922237ad5c">
+        <dex dex="/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run-bootstrap_73e22185fae56f54943960e2dea20ab8a0bd5a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/incremental-runtime-classes/arm7/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run_27fc45b4678de86d3d9fe4c2ed27b050e3bb77ab/classes.dex" />
+    </item>
+
+</items>

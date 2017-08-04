@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/incremental/mergeArm7DebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

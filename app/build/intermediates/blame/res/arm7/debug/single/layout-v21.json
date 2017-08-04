@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/layout-v21/notification_action.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

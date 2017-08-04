@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_fade_out.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_popup_exit.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_popup_enter.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_fade_in.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/res/merged/arm7/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/lin/.android/build-cache/02ded76d0e8c888d4a607a9f49e45315d471409f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

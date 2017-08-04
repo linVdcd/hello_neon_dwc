@@ -1,0 +1,4 @@
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a/CMakeFiles/hello-neon.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a/CMakeFiles/cpufeatures.dir

@@ -1,0 +1,7 @@
+#Fri Aug 04 10:59:48 CST 2017
+base.0=/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run_27fc45b4678de86d3d9fe4c2ed27b050e3bb77ab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run-bootstrap_73e22185fae56f54943960e2dea20ab8a0bd5a8e/classes.dex
+base.1=/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run-bootstrap_73e22185fae56f54943960e2dea20ab8a0bd5a8e
+file.0=/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/10000/instant-run_27fc45b4678de86d3d9fe4c2ed27b050e3bb77ab/classes.dex

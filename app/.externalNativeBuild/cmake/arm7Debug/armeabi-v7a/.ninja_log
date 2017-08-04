@@ -1,0 +1,10 @@
+# ninja log v5
+0	143	0	CMakeFiles/cpufeatures.dir/home/lin/Android/Sdk/ndk-bundle/sources/android/cpufeatures/cpu-features.c.o	79390807dc92a1ea
+143	210	0	libcpufeatures.a	35324bd50e1dcb6c
+210	283	0	CMakeFiles/hello-neon.dir/helloneon.c.o	bf216660e0b75eb4
+0	86	0	CMakeFiles/hello-neon.dir/helloneon.c.o	bf216660e0b75eb4
+0	845	0	CMakeFiles/hello-neon.dir/interface.cpp.o	27479c293509a0dd
+0	74	0	CMakeFiles/hello-neon.dir/helloneon.c.o	bf216660e0b75eb4
+0	43	0	CMakeFiles/hello-neon.dir/helloneon.c.o	bf216660e0b75eb4
+0	559	0	CMakeFiles/hello-neon.dir/interface.cpp.o	27479c293509a0dd
+559	631	0	/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-neon.so	789c313a7e58bea8

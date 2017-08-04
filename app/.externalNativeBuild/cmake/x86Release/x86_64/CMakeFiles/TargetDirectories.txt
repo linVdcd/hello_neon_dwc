@@ -1,0 +1,4 @@
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/x86Release/x86_64/CMakeFiles/edit_cache.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/x86Release/x86_64/CMakeFiles/rebuild_cache.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/x86Release/x86_64/CMakeFiles/hello-neon.dir
+/home/lin/HS-works/AndroidDev/android-ndk/hello-neon/app/.externalNativeBuild/cmake/x86Release/x86_64/CMakeFiles/cpufeatures.dir
